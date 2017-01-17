@@ -13,6 +13,7 @@
 	<modules>
 		<module>sso-auth-client</module>
 		<module>sso-auth-server</module>
+		<module>qibot-server</module>
 	</modules>
 
 	<repositories>
